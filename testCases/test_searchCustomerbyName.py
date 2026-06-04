@@ -1,3 +1,5 @@
+import time
+
 import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -43,6 +45,7 @@ class Test_searchCustomer_005:
         self.srcust.clickSeach()
         self.logger.info("--------------------Searching option clicked--------------------")
 
+        time.sleep(4)
         if self.srcust.searchCustomerbyname("Ramya"):
             assert True
         else:

@@ -1,3 +1,5 @@
+import time
+from selenium.webdriver.support.ui import WebDriverWait
 import pytest
 from selenium.webdriver.common.by import By
 from selenium import webdriver
@@ -36,11 +38,12 @@ class searchCustomer:
                 return True
         return False
 
-    def searchCustomerbyname(self, cusname):
+    def searchCustomerbyname(self, cusame):
         rows = self.driver.find_elements(By.XPATH, self.tablerow_xpath)
         for row in rows:
             custname = row.find_element(By.XPATH, "./td[3]").text.strip()
             print("Name Found:", custname)
-            if cusname.lower() in custname.split()[0].lower(): # Split by space and take the first item
+            time.sleep(2)
+            if cusame.lower() in custname.lower():
                 return True
         return False
