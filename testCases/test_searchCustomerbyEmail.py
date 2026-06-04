@@ -37,12 +37,12 @@ class Test_searchCustomer_004:
         self.logger.info("--------------------Customer Menu Page--------------------")
 
         self.srcust = searchCustomer(self.driver)
-        self.srcust.sendEmail("yw3z2ym9@gmail.com")
+        self.srcust.sendEmail("1elmfk35@gmail.com")
         self.logger.info("--------------------Customer details sent--------------------")
         self.srcust.clickSeach()
         self.logger.info("--------------------Searching option clicked--------------------")
 
-        if self.srcust.searchCustomerbyemail("yw3z2ym9@gmail.com"):
+        if self.srcust.searchCustomerbyemail("1elmfk35@gmail.com"):
             assert True
         else:
             assert False

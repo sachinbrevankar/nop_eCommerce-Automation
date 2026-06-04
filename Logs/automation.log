@@ -1112,3 +1112,33 @@
 03-Jun-26 17:05:56 - INFO - -------Add Customer Validation started---------
 03-Jun-26 17:05:56 - INFO - ---------Successfully added new customer details-------------
 03-Jun-26 17:05:57 - INFO - ---------Closing Add customer page---------
+04-Jun-26 15:36:30 - INFO - ************************TestPageTitle*************************************
+04-Jun-26 15:38:11 - INFO - ************************Login Page Pass*************************************
+04-Jun-26 15:38:17 - INFO - ************************ Verifying Login Success*************************************
+04-Jun-26 15:39:19 - INFO - ************************Login Success*************************************
+04-Jun-26 15:39:25 - INFO - ************************DDT Test Case**************************
+04-Jun-26 15:39:25 - INFO - ************************ Verifying Login Success*************************************
+04-Jun-26 15:39:41 - INFO - ******************TC DDT Passed********************
+04-Jun-26 15:39:58 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:40:04 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:40:09 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:40:09 - INFO - ********************Login DDT TC is Passed***********************
+04-Jun-26 15:40:10 - INFO - ----End of the Login DDT Testcase----
+04-Jun-26 15:40:10 - INFO - ----Completed Login DDT TC002----
+04-Jun-26 15:40:18 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:40:19 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:40:22 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:40:22 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:40:23 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:40:32 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:40:33 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:40:37 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:40:37 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:40:37 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:40:38 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 15:43:36 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:43:37 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:43:39 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:43:40 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:43:40 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:43:40 - INFO - --------------------Customer details Searched Successfully--------------------
