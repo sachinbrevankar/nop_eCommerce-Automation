@@ -41,6 +41,6 @@ class searchCustomer:
         for row in rows:
             custname = row.find_element(By.XPATH, "./td[3]").text.strip()
             print("Name Found:", custname)
-            if cusname.lower() in custname.lower():
+            if cusname.lower() in custname.split()[0].lower(): # Split by space and take the first item
                 return True
         return False

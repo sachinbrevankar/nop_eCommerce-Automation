@@ -1142,3 +1142,91 @@
 04-Jun-26 15:43:40 - INFO - --------------------Customer details sent--------------------
 04-Jun-26 15:43:40 - INFO - --------------------Searching option clicked--------------------
 04-Jun-26 15:43:40 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 15:47:14 - INFO - ************************TestPageTitle*************************************
+04-Jun-26 15:47:18 - INFO - ************************Login Page Pass*************************************
+04-Jun-26 15:47:20 - INFO - ************************ Verifying Login Success*************************************
+04-Jun-26 15:47:26 - INFO - ************************Login Success*************************************
+04-Jun-26 15:47:28 - INFO - ************************DDT Test Case**************************
+04-Jun-26 15:47:28 - INFO - ************************ Verifying Login Success*************************************
+04-Jun-26 15:47:37 - INFO - ******************TC DDT Passed********************
+04-Jun-26 15:47:46 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:47:51 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:47:57 - INFO - *******************TC DDT Passed*********************
+04-Jun-26 15:47:57 - INFO - ********************Login DDT TC is Passed***********************
+04-Jun-26 15:47:57 - INFO - ----End of the Login DDT Testcase----
+04-Jun-26 15:47:57 - INFO - ----Completed Login DDT TC002----
+04-Jun-26 15:48:03 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:48:04 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:48:07 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:48:08 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:48:08 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:48:08 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 15:48:13 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:48:14 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:48:16 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:48:17 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:48:17 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:49:11 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:49:11 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:49:15 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:49:15 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:49:15 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:50:58 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:50:59 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:51:01 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:51:01 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:51:01 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:51:51 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:51:52 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:51:54 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:51:55 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:51:55 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:57:54 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 15:57:57 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 15:57:59 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 15:57:59 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 15:57:59 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 15:58:00 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 16:02:39 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:02:43 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:02:44 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:02:45 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:02:45 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:02:45 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 16:07:28 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:07:31 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:07:32 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:07:32 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:07:33 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:08:25 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:08:28 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:08:29 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:08:29 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:08:30 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:08:54 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:08:55 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:08:59 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:08:59 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:08:59 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:10:28 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:10:31 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:10:32 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:10:32 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:10:32 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:11:16 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:11:18 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:11:20 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:11:20 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:11:20 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:11:21 - INFO - --------------------Customer details Searched Successfully--------------------
+04-Jun-26 16:12:04 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:12:04 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:12:08 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:12:08 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:12:08 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:13:26 - INFO - ------------------URL Lanuched------------------------
+04-Jun-26 16:13:28 - INFO - ---------------------Landed on Login page--------------------
+04-Jun-26 16:13:30 - INFO - --------------------Customer Menu Page--------------------
+04-Jun-26 16:13:30 - INFO - --------------------Customer details sent--------------------
+04-Jun-26 16:13:30 - INFO - --------------------Searching option clicked--------------------
+04-Jun-26 16:13:30 - INFO - --------------------Customer details Searched Successfully--------------------
