@@ -36,7 +36,7 @@ class Test_deleteCustomer_TC006:
         self.logger.info("----------------------Landed on customer details Page---------------------")
 
         self.srcus = searchCustomer(self.driver)
-        self.srcus.sendEmail("25xw5rkv@gmail.com")
+        self.srcus.sendEmail("eh13jfrs@gmail.com")
         self.srcus.clickSeach()
         self.logger.info("----------------------Searching Customer Details--------------------")
         time.sleep(2)
@@ -55,7 +55,7 @@ class Test_deleteCustomer_TC006:
 
         time.sleep(3)
 
-        if self.edt.searched_email("25xw5rkv@gmail.com"):
+        if self.edt.searched_email("eh13jfrs@gmail.com"):
             self.logger.info("---------- Customer Searched & Matched ----------")
             assert True
         else:
